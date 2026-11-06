@@ -12,5 +12,6 @@ This is a collection of text files. You can view them directly on GitHub or open
 git clone https://github.com/Marija1507/week5-github.git
 ```
 
-
+## Usage
+In order to use this repository, simply clone it and open the text files to read them.
 
